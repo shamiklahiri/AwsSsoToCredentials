@@ -7,5 +7,5 @@ With this simple shell script I try to refresh the session token and then export
 Usage:
 
 ``` shell
-./aws_sso_to_credentials.sh -e 'https://some.awsapps.com/start\#/' [-r 'eu-west-1'] [-p 'nn-oa-d'] [-s] [-b]
+./aws_sso_to_credentials.sh -e 'https://some.awsapps.com/start\#/' [-r 'eu-west-1'] [-p 'some-profile'] [-s] [-b]
 ```
